@@ -1,0 +1,14 @@
+{
+	"category" : "ContextExtras-State",
+	"classinstvars" : [
+		"default" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		"bindings" ],
+	"name" : "CeDelimitedDynamicVariables",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

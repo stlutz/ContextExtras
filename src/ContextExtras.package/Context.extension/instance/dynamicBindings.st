@@ -6,5 +6,5 @@ dynamicBindings
 	[ctxt == nil or: [ctxt receiver isDynamicBindings]]
 		whileFalse: [ctxt := ctxt nextHandlerContext].
 	^ ctxt
-		ifNil: [DynamicBindings default]
+		ifNil: [CeDelimitedDynamicVariables default]
 		ifNotNil: [ctxt receiver]

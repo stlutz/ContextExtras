@@ -1,0 +1,18 @@
+{
+	"class" : {
+		 },
+	"instance" : {
+		"add:" : "stlu 8/11/2019 21:09",
+		"associationClass" : "stlu 8/11/2019 20:54",
+		"at:put:" : "stlu 8/11/2019 20:35",
+		"atNewIndex:put:" : "stlu 8/11/2019 20:46",
+		"copyWith:" : "stlu 8/11/2019 21:11",
+		"copyWithAll:" : "stlu 8/11/2019 21:15",
+		"copyWithKey:value:" : "stlu 8/11/2019 21:33",
+		"copyWithKeys:values:" : "stlu 8/11/2019 21:37",
+		"copyWithoutKey:" : "stlu 8/11/2019 21:37",
+		"copyWithoutKeys:" : "stlu 8/11/2019 21:17",
+		"postCopy" : "stlu 8/11/2019 21:50",
+		"removeKey:ifAbsent:" : "stlu 8/11/2019 21:08",
+		"set:to:" : "stlu 8/11/2019 21:57",
+		"unset:" : "stlu 8/11/2019 21:13" } }

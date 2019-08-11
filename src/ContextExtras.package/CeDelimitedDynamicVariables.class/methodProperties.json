@@ -1,0 +1,25 @@
+{
+	"class" : {
+		"at:" : "stlu 8/10/2019 23:25",
+		"at:ifAbsent:" : "stlu 8/10/2019 23:25",
+		"at:ifPresent:" : "stlu 8/10/2019 23:25",
+		"at:ifPresent:ifAbsent:" : "stlu 8/10/2019 23:25",
+		"at:ifPresentPut:ifAbsentPut:during:" : "stlu 8/11/2019 17:06",
+		"at:put:during:" : "stlu 8/10/2019 23:27",
+		"current" : "stlu 8/10/2019 23:24",
+		"default" : "stlu 8/11/2019 00:46" },
+	"instance" : {
+		"at:" : "stlu 8/10/2019 17:51",
+		"at:ifAbsent:" : "stlu 8/10/2019 17:52",
+		"at:ifPresent:" : "stlu 8/10/2019 17:52",
+		"at:ifPresent:ifAbsent:" : "stlu 8/10/2019 17:52",
+		"at:ifPresentPut:ifAbsentPut:during:" : "stlu 8/11/2019 21:43",
+		"at:put:during:" : "stlu 8/11/2019 21:40",
+		"becomeCurrentDuring:" : "stlu 8/10/2019 23:25",
+		"bindings" : "stlu 8/11/2019 20:59",
+		"copyWithKey:value:" : "stlu 8/11/2019 21:40",
+		"do:" : "stlu 8/10/2019 18:37",
+		"initialize" : "stlu 8/11/2019 21:41",
+		"isDynamicBindings" : "stlu 8/10/2019 18:39",
+		"postCopy" : "stlu 8/11/2019 17:15",
+		"setBindings:" : "stlu 8/11/2019 21:28" } }

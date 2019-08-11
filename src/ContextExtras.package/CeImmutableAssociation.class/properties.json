@@ -1,0 +1,14 @@
+{
+	"category" : "ContextExtras-State",
+	"classinstvars" : [
+		 ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "CeImmutableAssociation",
+	"pools" : [
+		 ],
+	"super" : "Association",
+	"type" : "normal" }
