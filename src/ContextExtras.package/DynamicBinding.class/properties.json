@@ -1,0 +1,14 @@
+{
+	"category" : "ContextExtras-State",
+	"classinstvars" : [
+		"hash" ],
+	"classvars" : [
+		 ],
+	"commentStamp" : "",
+	"instvars" : [
+		 ],
+	"name" : "DynamicBinding",
+	"pools" : [
+		 ],
+	"super" : "Object",
+	"type" : "normal" }

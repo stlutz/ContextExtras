@@ -1,0 +1,4 @@
+*ContextExtras
+dynamicBindings
+
+	^ DynamicBindings default

@@ -1,0 +1,4 @@
+*ContextExtras
+isDynamicBindings
+
+	^ false
